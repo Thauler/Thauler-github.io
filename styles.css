@@ -1,0 +1,16 @@
+body {
+    background-color: #0D0106;
+    color: #D0CD94;
+}
+h1, h2, h3, h4 {
+    color: #FF331F;
+}
+#nome-completo {
+    color: #F7F7FF;
+}
+#img {
+    border-radius: 19%;
+}
+.habilidades {
+    font-size: 19px;
+}
