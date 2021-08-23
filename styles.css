@@ -2,15 +2,47 @@ body {
     background-color: #0D0106;
     color: #D0CD94;
 }
-h1, h2, h3, h4 {
+
+h2, h3, h4 {
     color: #FF331F;
 }
-#nome-completo {
+
+.nome-completo {
     color: #F7F7FF;
 }
-#img {
+
+.img {
     border-radius: 19%;
+    display: inline-block;
+    position: relative;
 }
+
 .habilidades {
     font-size: 19px;
+    position: absolute;
+    top: 350px;
+    
+    
+    
+}
+
+.descricao {
+    bottom: 280px;
+    display: inline-block;
+    left: 280px;
+    position: relative;
+}
+p {
+    display: block;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    margin-block-start: 1px;
+
+}
+.redes {
+    position: absolute;
+    top: 700px;
 }
